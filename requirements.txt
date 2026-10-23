@@ -1,0 +1,6 @@
+streamlit>=1.37,<2
+pandas>=2.2,<3
+plotly>=5.20,<7
+requests>=2.32,<3
+pycountry>=24.6,<27
+Babel>=2.15,<3
